@@ -1,0 +1,593 @@
+*{
+    background: #DBCBBC;
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+    box-sizing: border-box;
+}
+.name{
+    position: absolute;
+    width: 100%;
+    height: 432px;
+    background: #C6B4A6;
+}
+.name .flower{
+    position: absolute;
+    width: 232.42px;
+    height: 384px;
+    left: 17px;
+    top: 48px;
+    background-color: transparent;
+
+}
+.name .right_flower{
+    position: absolute;
+    width: 380px;
+    height: 607px;
+    left: 991px;
+    top: 0px;
+    background-color: transparent;
+}
+.name .weds{
+    position: absolute;
+        width: 700px;
+        height: 60px;
+        left: 449px;
+        top: 81px;
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 60.0508px;
+        line-height: 60px;
+        text-transform: uppercase;
+        color: #5B3205;
+        background-color: transparent;
+}
+.name .weare{
+    position: absolute;
+        width: 350px;
+        height: 24px;
+        left: 568px;
+        top: 165px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24.385px;
+        line-height: 24px;
+        text-transform: uppercase;
+    
+        color: #5B3205;
+        background-color: transparent;
+}
+.name .line{
+    position: absolute;
+        width: 216.82px;
+        height: 35px;
+        left: 613px;
+        top: 213px;
+        background-color: transparent;
+}
+.name .date{
+    position: absolute;
+        width: 240px;
+        height: 15px;
+        left: 605px;
+        top: 271px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 15px;
+    
+        text-transform: uppercase;
+    
+        color: #5B3205;
+        background-color: transparent;
+}
+.name .save{
+    position: absolute;
+        width: 187px;
+        height: 44.88px;
+        left: 626px;
+        top: 317px;
+        border: none;
+        background: #5B3205;
+        color: white;
+}
+.video .rectangle{
+    position: absolute;
+        width: 420px;
+        height: 59px;
+        left: 0px;
+        top: 432px;
+    
+        background: #5B3205;
+}
+.video .videos{
+    position: absolute;
+        width: 93px;
+        height: 27px;
+        left: 249px;
+        top: 448px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 26.8786px;
+        line-height: 27px;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+        background-color: transparent;
+}
+.video .video_video{
+    box-sizing: border-box;
+        position: absolute;
+        width: 1066px;
+        height: 555.04px;
+        left: 186px;
+        top: 516px;
+        border: 13.3584px solid #5B3205;
+}
+.photo_rectangle{
+    position: absolute;
+        width: 420px;
+        height: 59px;
+        left: 0px;
+        top: 1096px;
+    
+        background: #5B3205;
+}
+.photo_rectangle .photo_text{
+    position: absolute;
+        width: 93px;
+        height: 25px;
+        left: 245px;
+        top: 17px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24.7031px;
+        line-height: 25px;
+    
+        text-transform: uppercase;
+        background-color: transparent;
+        color: #FFFFFF;
+}
+.photo_rectangle .photo_image{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 1066px;
+        height: 614.43px;
+        left: 187px;
+        top: 84px;
+}
+.events{
+    position: absolute;
+        width: 420px;
+        height: 59px;
+        left: 0px;
+        top: 1819px;
+        background: #5B3205;
+}
+.events .event_text{
+    position: absolute;
+        width: 90px;
+        height: 25px;
+        left: 257px;
+        top: 17px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24.7031px;
+        line-height: 25px;
+        text-transform: uppercase;
+        background-color: transparent;
+        color: #FFFFFF;
+}
+.events .mehandi{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 950px;
+        height: 600px;
+        left: 245px;
+        top: 84px;
+}
+.events .left_corner{
+    position: absolute;
+        width: 207px;
+        height: 207px;
+        left: 260px;
+        top: 95px;
+        background-color: transparent;
+}
+.events .right_corner{
+    position: absolute;
+        width: 207px;
+        height: 207px;
+        left: 973px;
+        top: 463px;
+        background-color: transparent;
+}
+.events .mehandi_text{
+    position: absolute;
+        width: 334px;
+        height: 75px;
+        left: 364px;
+        top: 179px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 75px;
+        line-height: 75px;
+        text-transform: uppercase;
+        background-color: transparent;
+        color: #FFFFFF;
+}
+.events .date{
+    position: absolute;
+        width: 247px;
+        height: 50px;
+        left: 470px;
+        top: 305px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-align: center;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+.events .time{
+    position: absolute;
+        width: 169px;
+        height: 50px;
+        left: 470px;
+        top: 369px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-align: center;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+.events .place{
+    position: absolute;
+        width: 532px;
+        height: 50px;
+        left: 470px;
+        top: 444px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-align: center;
+        text-transform: capitalize;
+    
+        color: #FFFFFF;
+}
+.events .map{
+    position: absolute;
+        width: 348px;
+        height: 72px;
+        left: 546px;
+        top: 531px;
+        border: none;
+        background: #5B3205;
+        color: white;
+}
+.events2 .mehandi {
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 950px;
+        height: 677.97px;
+        left: 245px;
+        top: 2553px;
+}
+
+.events2 .left_corner {
+    position: absolute;
+        width: 207px;
+        height: 207px;
+        left: 260px;
+        top: 2570px;
+    background-color: transparent;
+}
+
+.events2 .right_corner {
+    position: absolute;
+        width: 207px;
+        height: 207px;
+        left: 970px;
+        top: 3002px;
+    background-color: transparent;
+}
+
+.events2 .mehandi_text {
+    position: absolute;
+        width: 343px;
+        height: 75px;
+        left: 364px;
+        top: 2674px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 75px;
+        background-color: transparent;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+.events2 .date {
+    position: absolute;
+        width: 246px;
+        height: 50px;
+        left: 470px;
+        top: 2789px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+.events2 .time {
+    position: absolute;
+        width: 187px;
+        height: 50px;
+        left: 470px;
+        top: 2864px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+.events2 .place {
+    position: absolute;
+        width: 532px;
+        height: 50px;
+        left: 470px;
+        top: 2939px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-transform: capitalize;
+    
+        color: #FFFFFF;
+}
+
+.events2 .map {
+    position: absolute;
+        width: 348px;
+        height: 72px;
+        left: 542px;
+        top: 3068px;
+    border: none;
+        background: #5B3205;
+    color: white;
+}
+.events3 .mehandi {
+    box-sizing: border-box;
+        position: absolute;
+        width: 950.05px;
+        height: 678px;
+        left: 245px;
+        top: 3281px;
+}
+
+.events3 .left_corner {
+    position: absolute;
+        width: 207px;
+        height: 207px;
+        left: 260px;
+        top: 3302px;
+        background-color: transparent;
+}
+
+.events3 .right_corner {
+    position: absolute;
+        width: 207px;
+        height: 207px;
+        left: 973px;
+        top: 3731px;
+    background-color: transparent;
+}
+
+.events3 .mehandi_text {
+    position: absolute;
+        width: 394px;
+        height: 75px;
+        left: 364px;
+        top: 3406px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 75px;
+        line-height: 75px;
+        background-color: transparent;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+.events3 .date {
+    position: absolute;
+        width: 246px;
+        height: 50px;
+        left: 470px;
+        top: 3521px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+.events3 .time {
+    position: absolute;
+        width: 165px;
+        height: 50px;
+        left: 470px;
+        top: 3596px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+.events3 .place {
+    position: absolute;
+        width: 532px;
+        height: 50px;
+        left: 470px;
+        top: 3671px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 50px;
+        background-color: transparent;
+        text-transform: capitalize;
+    
+        color: #FFFFFF;
+}
+
+.events3 .map {
+    position: absolute;
+        width: 348px;
+        height: 72px;
+        left: 542px;
+        top: 3785px;
+        border: none;
+        color: white;
+        background: #5B3205;
+}
+.thanku .thanku_img{
+    position: absolute;
+        width: 453px;
+        height: 200.62px;
+        left: 493px;
+        top: 4012px;
+}
+.thanku  .thanku_text{
+    position: absolute;
+        width: 300px;
+        height: 49px;
+        left: 585.91px;
+        top: 4087.9px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48.5791px;
+        line-height: 49px;
+        background-color: transparent;
+        text-transform: uppercase;
+        color: #5B3205;
+}
+.card .card_text{
+    position: absolute;
+        width: 420px;
+        height: 25px;
+        left: 529px;
+        top: 4263px;
+    
+        font-family: '?????';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 25px;
+        text-transform: uppercase;
+    
+        color: #000000;
+}
+.card .card_button{
+    position: absolute;
+        width: 593.75px;
+        height: 95px;
+        left: 424px;
+        top: 4310px;
+    
+        background: #5B3205;
+        color: white;
+        border: none;
+}
+.social .insta{
+    position: absolute;
+        width: 41.56px;
+        height: 41.56px;
+        left: 624px;
+        top: 4440px;
+}
+.social .phone{
+    position: absolute;
+        width: 41.56px;
+        height: 41.56px;
+        left: 699.64px;
+        top: 4440px;
+}
+.social .mail{
+    position: absolute;
+        width: 41.56px;
+        height: 41.56px;
+        left: 774.44px;
+        top: 4440px;
+}
+.social .logo{
+    position: absolute;
+        width: 73px;
+        height: 78px;
+        left: 683px;
+        top: 4541px;
+}
