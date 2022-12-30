@@ -220,8 +220,7 @@
         width: 334px;
         height: 75px;
         left: 364px;
-        top: 179px;
-    
+        top: 204px;
         font-family: '?????';
         font-style: normal;
         font-weight: 400;
@@ -236,7 +235,7 @@
         width: 247px;
         height: 50px;
         left: 470px;
-        top: 305px;
+        top: 318px;
     
         font-family: '?????';
         font-style: normal;
@@ -254,7 +253,7 @@
         width: 169px;
         height: 50px;
         left: 470px;
-        top: 369px;
+        top: 393px;
     
         font-family: '?????';
         font-style: normal;
@@ -272,7 +271,7 @@
         width: 532px;
         height: 50px;
         left: 470px;
-        top: 444px;
+        top: 468px;
     
         font-family: '?????';
         font-style: normal;
@@ -290,17 +289,16 @@
         width: 348px;
         height: 72px;
         left: 546px;
-        top: 531px;
+        top: 562px;
         border: none;
         background: #5B3205;
         color: white;
 }
 .events2 .mehandi {
     box-sizing: border-box;
-    
         position: absolute;
         width: 950px;
-        height: 677.97px;
+        height: 600px;
         left: 245px;
         top: 2553px;
 }
@@ -318,8 +316,8 @@
     position: absolute;
         width: 207px;
         height: 207px;
-        left: 970px;
-        top: 3002px;
+        left: 969px;
+        top: 2924px;
     background-color: transparent;
 }
 
@@ -328,7 +326,7 @@
         width: 343px;
         height: 75px;
         left: 364px;
-        top: 2674px;
+        top: 2660px;
     
         font-family: '?????';
         font-style: normal;
@@ -345,7 +343,7 @@
         width: 246px;
         height: 50px;
         left: 470px;
-        top: 2789px;
+        top: 2785px;
     
         font-family: '?????';
         font-style: normal;
@@ -363,7 +361,7 @@
         width: 187px;
         height: 50px;
         left: 470px;
-        top: 2864px;
+        top: 2860px;
     
         font-family: '?????';
         font-style: normal;
@@ -381,7 +379,7 @@
         width: 532px;
         height: 50px;
         left: 470px;
-        top: 2939px;
+        top: 2935px;
     
         font-family: '?????';
         font-style: normal;
@@ -398,8 +396,8 @@
     position: absolute;
         width: 348px;
         height: 72px;
-        left: 542px;
-        top: 3068px;
+        left: 546px;
+        top: 3029px;
     border: none;
         background: #5B3205;
     color: white;
@@ -408,7 +406,7 @@
     box-sizing: border-box;
         position: absolute;
         width: 950.05px;
-        height: 678px;
+        height: 600px;
         left: 245px;
         top: 3281px;
 }
@@ -427,7 +425,7 @@
         width: 207px;
         height: 207px;
         left: 973px;
-        top: 3731px;
+        top: 3654px;
     background-color: transparent;
 }
 
@@ -436,7 +434,7 @@
         width: 394px;
         height: 75px;
         left: 364px;
-        top: 3406px;
+        top: 3388px;
     
         font-family: '?????';
         font-style: normal;
@@ -454,7 +452,7 @@
         width: 246px;
         height: 50px;
         left: 470px;
-        top: 3521px;
+        top: 3504px;
     
         font-family: '?????';
         font-style: normal;
@@ -472,7 +470,7 @@
         width: 165px;
         height: 50px;
         left: 470px;
-        top: 3596px;
+        top: 3579px;
     
         font-family: '?????';
         font-style: normal;
@@ -490,7 +488,7 @@
         width: 532px;
         height: 50px;
         left: 470px;
-        top: 3671px;
+        top: 3654px;
     
         font-family: '?????';
         font-style: normal;
@@ -508,7 +506,7 @@
         width: 348px;
         height: 72px;
         left: 542px;
-        top: 3785px;
+        top: 3748px;
         border: none;
         color: white;
         background: #5B3205;
